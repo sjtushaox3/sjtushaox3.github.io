@@ -14,10 +14,10 @@ I am an undergraduate student at Shanghai Jiao Tong University, majoring in Elec
 I will pursue a Ph.D. in Information and Communication Engineering at SJTU starting from 2026.
 
 My research interests include:
-- Wireless communication
+- Massive MIMO system
 - Information theory
-- Massive MIMO
-- AI for communication systems
+- ISAC
+- AI for wireless communication
 
 ---
 
