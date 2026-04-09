@@ -4,12 +4,15 @@ permalink: /social/
 author_profile: true
 ---
 
-## Social Activity
+### Advising Center
+- Adivisor
+- 2025-present
 
-### Volunteer Work
-- Volunteer at XXX event
-- Organized XXX activity
+### Center for Teaching and Learning
+- TA Mentor
+- Advanced TA
+- 2023-present
 
-### Leadership
-- Member of XXX organization
-- Led XXX project
+### Writing Center
+- Writing Consultant
+- 2024
