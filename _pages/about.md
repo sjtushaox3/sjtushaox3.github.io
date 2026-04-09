@@ -15,7 +15,7 @@ I will pursue a Ph.D. in Information and Communication Engineering at SJTU start
 
 My research interests include:
 - Massive Coded Random Access
-- Information theory application
+- Information theory
 - ISAC
 - AI for wireless communication
 
