@@ -1,13 +1,23 @@
 ---
-title: "Paper Title Number 4"
+title: "On the Rate Region of I.I.D. Discrete Signaling and
+Treating Interference as Noise for the Gaussian
+Broadcast Channel"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'We revisit the Gaussian broadcast channel (GBC)
+and explore the rate region achieved by purely discrete inputs
+with treating interference as noise (TIN) decoding. Specifically,
+we introduce a simple scheme based on superposition coding with
+identically and independently distributed (i.i.d.) inputs drawn
+from discrete constellations, e.g., pulse amplitude modulations
+(PAM). Most importantly, we prove that the resulting achievable
+rate region under TIN decoding is within a constant gap to the
+capacity region of the GBC, where the gap is independent of
+all channel parameters. In addition, we show via simulation that
+the weak user can achieve a higher rate with PAM than with
+Gaussian signaling in some cases.'
+date: 2026-03-28
+venue: 'IEEE ISIT 2026 (accepted)'
+paperurl: 'http://arxiv.org/abs/2604.04092' (extended version)
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
