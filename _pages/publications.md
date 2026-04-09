@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Upcoming Next Paper 
+### Upcoming Next Paper ...
 
 ### On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
 
