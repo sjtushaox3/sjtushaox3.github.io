@@ -7,7 +7,7 @@ author_profile: true
 
 ### Course: STAT471 Data analysis and Analytics using Python
 - 2026SP 2024FA
-- [📄 24FA MID RC PDF](/files/471midRC_part2_Shao Yujie.pdf)
+- [📄 24FA MID RC PDF2](/files/471midRC_part2_Shao Yujie.pdf)
 
 ### Course: MATH256 Honor Calculus IV
 - 2025FA 2024FA
@@ -29,6 +29,12 @@ author_profile: true
 
 ### Course: VP160 Honor Physics I
 - 2024SU
+- [📄 24SU RC2 PDF](/files/VP160RC2.pdf)
+- [📄 24SU RC2 PDF MATH](/files/VP160RC2_MATH PART.pdf)
+- [📄 24SU RC5 PDF](/files/VP160RC5_v4.pdf)
+- [📄 24SU MID RC PDF1](/files/VP160-MID-RC1.pdf)
+- [📄 24SU MID RC PDF1 MATH](/files/VP160-MID-Math Part.pdf)
+- [📄 24SU Final RC PDF1](/files/VP160-Final Big RC-Part1.pdf)
 
 ### Course: PHIL2650 Introduction to Chinese History
 - 2024SP
