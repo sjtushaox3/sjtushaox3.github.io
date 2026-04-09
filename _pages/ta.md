@@ -7,6 +7,7 @@ author_profile: true
 
 ### Course: STAT471 Data analysis and Analytics using Python
 - 2026SP 2024FA
+- [📄 MID RC PDF](/files/471midRC_part2_Shao Yujie.pdf)
 
 ### Course: MATH256 Honor Calculus IV
 - 2025FA 2024FA
