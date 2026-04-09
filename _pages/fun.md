@@ -6,19 +6,15 @@ author_profile: true
 
 ## Things Beyond Research
 
-### 🎮 Hobbies
-- Gaming (XXX)
-- Gym / Running
-- Music
+### 🎮 Game
+- 
+- 
+- 
 
 ### 🧠 Random Interests
-- Large Language Models
-- Startups & Tech
-- Finance
-
-### 🛠️ Side Projects
-- Built XXX tool
-- Tried XXX idea
+- Writing: 
+- Poem:
+- Finance:
 
 ### ✍️ Thoughts
-Sometimes I write random notes about research and life.
+Life Game and keep 舒服 !
