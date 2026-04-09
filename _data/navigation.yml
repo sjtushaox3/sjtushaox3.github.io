@@ -15,7 +15,11 @@ main:
     url: /social/    
 
   - title: "TA Experience"
-    url: /ta/    
+    url: /ta/   
+
+  - title: "Fun"
+    url: /fun/
+
     
 
     
