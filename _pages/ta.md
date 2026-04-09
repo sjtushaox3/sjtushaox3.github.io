@@ -26,6 +26,7 @@ author_profile: true
 - [📄 25SP RC5 PDF](/files/RC5.pdf)
 - [📄 25SP RC5 Notebook](/files/rc5.nb)
 - [📄 25SP RC6 PDF](/files/RC6.pdf)
+- [📄 25SP Final RC PDF](/files/Final RC 20-23 Shao Yujie.pdf)
 
 ### Course: VP160 Honor Physics I
 - 2024SU
