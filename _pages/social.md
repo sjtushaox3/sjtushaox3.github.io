@@ -6,12 +6,12 @@ author_profile: true
 
 ### Advising Center
 - Adivisor
-- 2025-present
+- 2025 - present
 
 ### Center for Teaching and Learning
 - TA Mentor
 - Advanced TA
-- 2024-present
+- 2024 - present
 
 ### Writing Center
 - Writing Consultant
