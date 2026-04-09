@@ -25,5 +25,8 @@ author_profile: true
   潜水员戴夫、模拟山羊3、传说之下、勇敢的心世界大战、黑森町绮潭
 - Steamdeck忠实信徒
 
+<iframe src="/files/4.9.png" width="100%" height="600px">
+</iframe>
+
 ### ✍️ Thoughts
 Life Game and keep 舒服 !
