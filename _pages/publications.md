@@ -4,13 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 ### On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
 
 - Venue: IEEE ISIT 2026 (accepted)
 - Date: 2026-03-28
-- Link: [arXiv](http://arxiv.org/abs/2604.04092)
+- Link: [arXiv](http://arxiv.org/abs/2604.04092) (extended version)
 
 We revisit the Gaussian broadcast channel (GBC) and explore the rate region achieved by purely discrete inputs with treating interference as noise (TIN) decoding.
 
@@ -20,9 +18,5 @@ Most importantly, we prove that the resulting achievable rate region under TIN d
 
 ---
 
-### Another Paper Title
+### Next Paper 
 
-- Venue: XXX
-- Date: XXXX-XX-XX
-
-Brief introduction here.
