@@ -1,7 +1,5 @@
 ---
-title: "On the Rate Region of I.I.D. Discrete Signaling and
-Treating Interference as Noise for the Gaussian
-Broadcast Channel"
+title: "On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel"
 collection: publications
 category: conferences
 excerpt: 'We revisit the Gaussian broadcast channel (GBC)
