@@ -20,6 +20,12 @@ author_profile: true
 
 ### Course: VE401 Probabilistic methods in Engineering
 - 2025SP
+- [📄 25SP RC3 PDF](/files/RC3_Shao Yujie.pdf)
+- [📄 25SP RC3 Notebook](/files/rc3.nb)
+- [📄 25SP RC4 Notebook](/files/rc4.nb)
+- [📄 25SP RC5 PDF](/files/RC5.pdf)
+- [📄 25SP RC5 Notebook](/files/rc5.nb)
+- [📄 25SP RC6 PDF](/files/RC6.pdf)
 
 ### Course: VP160 Honor Physics I
 - 2024SU
