@@ -20,7 +20,7 @@ Most importantly, we prove that the resulting achievable rate region under TIN d
 
 ---
 
-### Fast Aging-Aware Cell-to-Path Timing Reliability Prediction with Fine-Grained Transistor Stress Modeling"
+### Fast Aging-Aware Cell-to-Path Timing Reliability Prediction with Fine-Grained Transistor Stress Modeling
 
 - Venue: IEEE Transaction on Reliability (under review)
 
