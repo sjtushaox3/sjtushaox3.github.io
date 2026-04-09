@@ -3,7 +3,6 @@ title: "TA Experience"
 permalink: /ta/
 author_profile: true
 ---
-
 ### Course: STAT471 Data analysis and Analytics using Python
 - 2026SP 2024FA
 ### Course: MATH256 Honor Calculus IV
