@@ -11,6 +11,17 @@ author_profile: true
 
 ### Course: MATH256 Honor Calculus IV
 - 2025FA 2024FA
+- Ordinary Differential Equation
+- [📄 24FA RC1 PDF](/files/VV256-RC1_v3.pdf)
+- [📄 24FA RC1 PDF2](/files/VV256-RC1-part2.pdf)
+- [📄 24FA RC2 PDF](/files/VV256-RC2_v2.pdf)
+- [📄 24FA RC2 PDF2](/files/VV256-RC2-part2.pdf)
+- [📄 24FA RC3 PDF](/files/VV256-RC3.pdf)
+- Complex Analysis
+- [📄 24FA RC4 PDF](/files/VV256-RC4.pdf)
+- Linear Algebra and Matrix ODE
+- [📄 24FA RC5 PDF](/files/VV256-RC5.pdf)
+- [📄 24FA RC6 PDF](/files/VV256-RC6.pdf)
 
 ### Course: TC496 Advanced Technical Communication
 - 2025FA 2025SU
