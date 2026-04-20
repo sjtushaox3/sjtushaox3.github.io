@@ -8,7 +8,7 @@ author_profile: true
 
 ### On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
 
-- Venue: IEEE ISIT 2026 (accepted)
+- Venue: 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)
 - Date: 2026-03-28
 - Link: [arXiv](http://arxiv.org/abs/2604.04092) (extended version)
 
