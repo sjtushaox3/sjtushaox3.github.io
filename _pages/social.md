@@ -16,3 +16,9 @@ author_profile: true
 ### Writing Center
 - Writing Consultant
 - 2024
+
+### Award
+- Shanghai Jiao Tong University Outstanding Graduate Award (2026)
+- Global Institute of Future Technology Scholars Program (2025-2026)
+- The Development Scholarship - Service (2025)
+- Undergraduate Excellent Third Prize Scholarship (2022-2024)
