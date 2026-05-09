@@ -4,6 +4,8 @@ permalink: /ta/
 author_profile: true
 ---
 
+### Course: VE462 Wireless Communications Technologies
+- 2026SU
 
 ### Course: STAT471 Data analysis and Analytics using Python
 - 2026SP 2024FA
