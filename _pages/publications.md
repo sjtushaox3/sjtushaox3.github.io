@@ -6,6 +6,12 @@ author_profile: true
 
 ### Upcoming Next Paper ...
 
+### Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC
+
+- Venue: 2026 IEEE Information Theory Workshop (ITW) (under review)
+
+---
+
 ### On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
 
 - Venue: 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)
