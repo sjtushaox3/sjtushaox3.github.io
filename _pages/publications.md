@@ -12,6 +12,7 @@ author_profile: true
 
 - Authors: **Y. Shao**, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan
 - Venue: 2026 IEEE Information Theory Workshop (ITW) (under review)
+- Link: [arXiv](https://arxiv.org/abs/2605.25047) (original version)
 
 ---
 
