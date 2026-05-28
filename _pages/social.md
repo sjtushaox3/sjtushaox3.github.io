@@ -17,6 +17,10 @@ author_profile: true
 - Writing Consultant
 - 2024
 
+### Shanghai Advanced Institute of Finance
+- Research Assistant
+- 2024
+
 ### Award
 - Shanghai Jiao Tong University Outstanding Graduate Award (2026)
 - GC Qingyang Scholarship (2026)
