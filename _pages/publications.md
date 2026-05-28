@@ -21,7 +21,7 @@ author_profile: true
 
 ### On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
 
-<img src="{{ '/files/ISIT2026.png' | relative_url }}" alt="Proposed APSK performance" style="max-width: 700px; width: 100%; border-radius: 8px; margin: 0.5rem 0 1rem 0;">
+<img src="{{ '/files/ISIT2026.png' | relative_url }}" alt="Proposed Rate Region" style="max-width: 700px; width: 100%; border-radius: 8px; margin: 0.5rem 0 1rem 0;">
 
 * Authors: **Y. Shao** and M. Qiu
 * Venue: 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)
