@@ -11,7 +11,7 @@ author_profile: true
 
 ### Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC
 
-<img src="{{ '/files/apsk-isac.png' | relative_url }}" alt="APSK constellations for ISAC" style="max-width: 700px; width: 100%; border-radius: 8px; margin: 0.5rem 0 1rem 0;">
+<img src="{{ '/files/apsk-isac.png' | relative_url }}" alt="Proposed APSK performance" style="max-width: 700px; width: 100%; border-radius: 8px; margin: 0.5rem 0 1rem 0;">
 
 * Authors: **Y. Shao**, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan
 * Venue: 2026 IEEE Information Theory Workshop (ITW) (under review)
