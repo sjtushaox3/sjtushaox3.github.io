@@ -1,5 +1,4 @@
 ---
-
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -124,7 +123,6 @@ author_profile: true
       <span class="pub-status">ISIT 2026 accepted</span>
       <div class="pub-links">
         <a href="http://arxiv.org/abs/2604.04092">arXiv</a>
-        <a href="{{ '/files/VV256-RC1_v3.pdf' | relative_url }}">PDF</a>
       </div>
     </div>
   </div>
@@ -141,5 +139,3 @@ author_profile: true
   </div>
 
 </div>
-
-
