@@ -16,46 +16,50 @@ author_profile: true
   border-bottom: 1px solid #e5e5e5;
 }
 
-/* 文章标题：保持单行，太长则横向滑动 */
+/* 标题：允许正常换行 */
 .publications-list .pub-title {
   margin-top: 0;
   margin-bottom: 0.8rem;
   line-height: 1.25;
-  white-space: nowrap;
+  white-space: normal;
+}
+
+/* 这一层负责横向滑动：文字和图片作为整体一起滑动 */
+.publications-list .pub-card {
   overflow-x: auto;
   overflow-y: hidden;
-  display: block;
   -webkit-overflow-scrolling: touch;
 }
 
-/* 左边文字 + 右边图片 */
-.publications-list .pub-card {
+/* 这一层是真正的横向内容 */
+.publications-list .pub-card-inner {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) clamp(140px, 28%, var(--fig-w, 18em));
+  grid-template-columns: max-content var(--fig-w, 18em);
   gap: 1.25rem;
   align-items: start;
+  width: max-content;
+  min-width: 100%;
 }
 
-/* 左边文字区域：内部可横向滑动 */
+/* 没有图片的论文只显示文字 */
+.publications-list .pub-card.no-figure .pub-card-inner {
+  grid-template-columns: max-content;
+}
+
 .publications-list .pub-info {
   min-width: 0;
-  overflow-x: auto;
-  overflow-y: hidden;
-  -webkit-overflow-scrolling: touch;
 }
 
-/* 每一条信息强制单行，不换行 */
+/* 每一条信息保持单行 */
 .publications-list .pub-line {
   display: block;
-  width: max-content;
-  max-width: none;
   margin: 0.25rem 0;
   line-height: 1.55;
   white-space: nowrap;
 }
 
 .publications-list .pub-figure {
-  min-width: 0;
+  width: var(--fig-w, 18em);
 }
 
 .publications-list .pub-figure img {
@@ -65,18 +69,14 @@ author_profile: true
   border-radius: 8px;
 }
 
-.publications-list .pub-card.no-figure {
-  grid-template-columns: minmax(0, 1fr);
-}
-
-/* 小屏幕时图片放到文字下面 */
+/* 小屏幕时也仍然保持整体横向滑动，不把图片强行放到下面 */
 @media (max-width: 640px) {
-  .publications-list .pub-card {
-    grid-template-columns: minmax(0, 1fr);
+  .publications-list .pub-card-inner {
+    grid-template-columns: max-content var(--fig-w, 16em);
   }
 
   .publications-list .pub-figure {
-    max-width: 100%;
+    width: var(--fig-w, 16em);
   }
 }
 </style>
@@ -92,14 +92,16 @@ author_profile: true
 
 
 <div class="pub-card" style="--fig-w: 18em;">
-  <div class="pub-info">
-    <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
-    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW) (under review)</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (original version)</span>
-  </div>
+  <div class="pub-card-inner">
+    <div class="pub-info">
+      <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
+      <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW) (under review)</span>
+      <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (original version)</span>
+    </div>
 
-  <div class="pub-figure">
-    <img src="{{ '/files/ITW2026.svg' | relative_url }}" alt="Proposed APSK performance">
+    <div class="pub-figure">
+      <img src="{{ '/files/ITW2026.svg' | relative_url }}" alt="Proposed APSK performance">
+    </div>
   </div>
 </div>
 
@@ -111,15 +113,17 @@ author_profile: true
 
 
 <div class="pub-card" style="--fig-w: 18em;">
-  <div class="pub-info">
-    <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
-    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)</span>
-    <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version)</span>
-  </div>
+  <div class="pub-card-inner">
+    <div class="pub-info">
+      <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
+      <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)</span>
+      <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
+      <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version)</span>
+    </div>
 
-  <div class="pub-figure">
-    <img src="{{ '/files/ISIT2026.svg' | relative_url }}" alt="Proposed Rate Region">
+    <div class="pub-figure">
+      <img src="{{ '/files/ISIT2026.svg' | relative_url }}" alt="Proposed Rate Region">
+    </div>
   </div>
 </div>
 
@@ -131,9 +135,11 @@ author_profile: true
 
 
 <div class="pub-card no-figure">
-  <div class="pub-info">
-    <span class="pub-line"><strong>Authors:</strong> F. Hu, S. J. Babu, <strong>Y. Shao</strong>, J. Liu, Y. Pan, S. Singhal, and X. Guo</span>
-    <span class="pub-line"><strong>Venue:</strong> IEEE Transactions on Reliability (under review)</span>
+  <div class="pub-card-inner">
+    <div class="pub-info">
+      <span class="pub-line"><strong>Authors:</strong> F. Hu, S. J. Babu, <strong>Y. Shao</strong>, J. Liu, Y. Pan, S. Singhal, and X. Guo</span>
+      <span class="pub-line"><strong>Venue:</strong> IEEE Transactions on Reliability (under review)</span>
+    </div>
   </div>
 </div>
 
