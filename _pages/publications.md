@@ -66,7 +66,7 @@ author_profile: true
   <div class="pub-item">
     <h3 class="pub-title">Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC</h3>
 
-```
+
 <div class="pub-card" style="--fig-w: 24em;">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
@@ -78,14 +78,14 @@ author_profile: true
     <img src="{{ '/files/ITW2026.svg' | relative_url }}" alt="Proposed APSK performance">
   </div>
 </div>
-```
+
 
   </div>
 
   <div class="pub-item">
     <h3 class="pub-title">On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel</h3>
 
-```
+
 <div class="pub-card" style="--fig-w: 24em;">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
@@ -98,21 +98,21 @@ author_profile: true
     <img src="{{ '/files/ISIT2026.svg' | relative_url }}" alt="Proposed Rate Region">
   </div>
 </div>
-```
+
 
   </div>
 
   <div class="pub-item">
     <h3 class="pub-title">Fast Aging-Aware Cell-to-Path Timing Reliability Prediction with Fine-Grained Transistor Stress Modeling</h3>
 
-```
+
 <div class="pub-card no-figure">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> F. Hu, S. J. Babu, <strong>Y. Shao</strong>, J. Liu, Y. Pan, S. Singhal, and X. Guo</span>
     <span class="pub-line"><strong>Venue:</strong> IEEE Transactions on Reliability (under review)</span>
   </div>
 </div>
-```
+
 
   </div>
 
