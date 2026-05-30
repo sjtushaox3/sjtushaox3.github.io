@@ -3,7 +3,7 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--------------------
 
 <style>
 .publications-list {
@@ -16,27 +16,46 @@ author_profile: true
   border-bottom: 1px solid #e5e5e5;
 }
 
+/* 文章标题：保持单行，太长则横向滑动 */
 .publications-list .pub-title {
   margin-top: 0;
   margin-bottom: 0.8rem;
   line-height: 1.25;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: block;
+  -webkit-overflow-scrolling: touch;
 }
 
+/* 左边文字 + 右边图片 */
 .publications-list .pub-card {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) clamp(160px, 32%, var(--fig-w, 24em));
+  grid-template-columns: minmax(0, 1fr) clamp(140px, 28%, var(--fig-w, 18em));
   gap: 1.25rem;
   align-items: start;
 }
 
+/* 左边文字区域：内部可横向滑动 */
 .publications-list .pub-info {
   min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
 }
 
+/* 每一条信息强制单行，不换行 */
 .publications-list .pub-line {
   display: block;
+  width: max-content;
+  max-width: none;
   margin: 0.25rem 0;
   line-height: 1.55;
+  white-space: nowrap;
+}
+
+.publications-list .pub-figure {
+  min-width: 0;
 }
 
 .publications-list .pub-figure img {
@@ -50,9 +69,14 @@ author_profile: true
   grid-template-columns: minmax(0, 1fr);
 }
 
+/* 小屏幕时图片放到文字下面 */
 @media (max-width: 640px) {
   .publications-list .pub-card {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  .publications-list .pub-figure {
+    max-width: 100%;
   }
 }
 </style>
@@ -67,7 +91,7 @@ author_profile: true
     <h3 class="pub-title">Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC</h3>
 
 
-<div class="pub-card" style="--fig-w: 24em;">
+<div class="pub-card" style="--fig-w: 18em;">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW) (under review)</span>
@@ -86,7 +110,7 @@ author_profile: true
     <h3 class="pub-title">On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel</h3>
 
 
-<div class="pub-card" style="--fig-w: 24em;">
+<div class="pub-card" style="--fig-w: 18em;">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)</span>
