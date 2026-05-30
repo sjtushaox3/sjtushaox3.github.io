@@ -25,7 +25,6 @@ author_profile: true
 
 * Authors: **Y. Shao** and M. Qiu
 * Venue: 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)
-* Note: It is the flagship conference of the IEEE Information Theory Society
 * Date: 2026-03-28
 * Link: [arXiv](http://arxiv.org/abs/2604.04092) (extended version)
 
