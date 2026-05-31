@@ -70,7 +70,8 @@ author_profile: true
 <div class="pub-card" style="--fig-w: 24em;">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
-    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW) (under review)</span>
+    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW)</span>
+    <span class="pub-line"><strong>State:</strong> under review</span>
     <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (original version)</span>
   </div>
 
@@ -89,8 +90,8 @@ author_profile: true
 <div class="pub-card" style="--fig-w: 24em;">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
-    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)</span>
-    <span class="pub-line"><strong>Note:</strong>  ISIT is the flagship conference of the IEEE Information Theory Society.</span>
+    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT)</span>
+    <span class="pub-line"><strong>State:</strong> accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
     <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version)</span>
   </div>
@@ -110,7 +111,8 @@ author_profile: true
 <div class="pub-card no-figure">
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> F. Hu, S. J. Babu, <strong>Y. Shao</strong>, J. Liu, Y. Pan, S. Singhal, and X. Guo</span>
-    <span class="pub-line"><strong>Venue:</strong> IEEE Transactions on Reliability (under review)</span>
+    <span class="pub-line"><strong>Venue:</strong> IEEE Transactions on Reliability</span>
+    <span class="pub-line"><strong>State:</strong> under review</span>
   </div>
 </div>
 
