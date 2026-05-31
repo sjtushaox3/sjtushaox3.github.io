@@ -90,6 +90,7 @@ author_profile: true
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT) (accepted)</span>
+    <span class="pub-line"><strong>Note:</strong>  ISIT is the flagship conference of the IEEE Information Theory Society.</span>
     <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
     <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version)</span>
   </div>
