@@ -17,7 +17,7 @@ My research interests include:
 - Information Theory
 - AI for Wireless Communication
 - Multiple Access
-- Integrated Sensing and Communication.
+- Integrated Sensing and Communication
 
 ---
 
