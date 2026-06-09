@@ -12,7 +12,7 @@ author_profile: true
 * **Writing:** Sometimes I write because the urge suddenly arrives — even when no one is around to listen.<br>
   「忽有表达的欲望，环顾却阒无一人。」
 * I once serialized a long campus memoir, *Educators from a Small Town* (《小镇教育家》), on the WeChat public account “浙司有话说”. It is, regrettably, unfinished.
-* I also used to post essays on the WeChat public account: mostly silence, occasionally nonsense.
+* I also used to post essays on it: mostly silence, occasionally nonsense.
 * **Poetry:** I write classical-style Chinese poems from time to time and casually throw them onto WeChat Moments.
 * I have been persistently loafing around in Baiyang Poetry Club, occasionally contributing modern poems to its collections for decorative literary purposes.
 * **Finance:** I am, unfortunately, broke. /(ㄒoㄒ)/~~
