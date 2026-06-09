@@ -34,10 +34,10 @@ author_profile: true
 * A loyal believer in the Steam Deck.
 
 <div style="max-height:600px; overflow-y:auto; border:1px solid #ddd; padding:6px;">
-  <img src="/files/4.9.png" style="width:100%; display:block;">
+  <img src="/files/6.9.jpg" style="width:100%; display:block;">
 </div>
 
-Updated until 2026/4/9
+Updated until 2026/6/9
 
 ### ✍️ Thoughts
 
