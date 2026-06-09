@@ -1,4 +1,5 @@
 ---
+
 title: "Fun"
 permalink: /fun/
 author_profile: true
@@ -7,29 +8,37 @@ author_profile: true
 ## Things Beyond Research
 
 ### 🧠 Random Interests
-- Writing: 忽有表达的欲望，环顾却阒无一人。
-- 长篇校园回忆录《小镇教育家》连载在微信公众号“浙司有话说”（已烂尾）
-- 常态沉默偶尔发癫的随笔也放在公众号上（已出走）
-- Poem: 擅写诗词，偶有所得，随意掷于朋友圈
-- 坚持摸鱼在白岩诗社，偶尔更一两篇现代诗给诗会诗集附庸风雅（已下放）
-- Finance: 我真的没钱了/(ㄒoㄒ)/~~
 
-### 🎮 Game
-- 真正的CRPG发烧粉
-  老滚五、辐射四、神原2、正义生气、质量效应
-- 中度开放世界爱好者
-  大镖客2、GTA5、看门狗2、无人深空、巫师三
-- JRPG资深品鉴师
-  歧路旅人1、歧路旅人2、P5R、逸剑风云决、如龙7
-- 小众独立游戏嘉豪
-  潜水员戴夫、模拟山羊3、传说之下、勇敢的心世界大战、黑森町绮潭
-- Steamdeck忠实信徒
+* **Writing:** Sometimes I write because the urge suddenly arrives — even when no one is around to listen.
+  「忽有表达的欲望，环顾却阒无一人。」
+* I once serialized a long campus memoir, *Educators from a Small Town* (《小镇教育家》), on the WeChat public account “浙司有话说”. It is, regrettably, unfinished.
+* I also used to post essays there: mostly silence, occasionally nonsense.
+* **Poetry:** I write classical-style Chinese poems from time to time and casually throw them onto WeChat Moments.
+* I have been persistently loafing around in Baiyang Poetry Club, occasionally contributing modern poems to its collections for decorative literary purposes.
+* **Finance:** I am, unfortunately, broke. /(ㄒoㄒ)/~~
+
+### 🎮 Games
+
+* **A devoted CRPG fan:**
+  *The Elder Scrolls V: Skyrim*, *Fallout 4*, *Divinity: Original Sin 2*, *Pathfinder: Wrath of the Righteous*, *Mass Effect*
+
+* **A moderate open-world enthusiast:**
+  *Red Dead Redemption 2*, *GTA V*, *Watch Dogs 2*, *No Man’s Sky*, *The Witcher 3*
+
+* **A seasoned JRPG appreciator:**
+  *Octopath Traveler I & II*, *Persona 5 Royal*, *Wandering Sword*, *Yakuza: Like a Dragon*
+
+* **A fan of niche indie games:**
+  *Dave the Diver*, *Goat Simulator 3*, *Undertale*, *Valiant Hearts*, *Tales of the Black Forest*
+
+* A loyal believer in the Steam Deck.
 
 <div style="max-height:600px; overflow-y:auto; border:1px solid #ddd; padding:6px;">
   <img src="/files/4.9.png" style="width:100%; display:block;">
 </div>
 
-updated until 2026/4/9
+Updated until 2026/4/9
 
 ### ✍️ Thoughts
-Life Game and keep 舒服 !
+
+Life is a game. Stay comfy. Keep 舒服！
