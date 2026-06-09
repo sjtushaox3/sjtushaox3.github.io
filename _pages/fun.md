@@ -29,7 +29,7 @@ author_profile: true
   *Octopath Traveler I & II*, *Persona 5 Royal*, *Wandering Sword*, *Yakuza: Like a Dragon*
 
 * **A fan of niche indie games:**
-  *Dave the Diver*, *Goat Simulator 3*, *Undertale*, *Valiant Hearts*, *There Is No Game: Wrong Dimension*, *Do Not Feed The Monkeys*
+  *Dave the Diver*, *Goat Simulator 3*, *Undertale*, *Valiant Hearts*, *There Is No Game: Wrong Dimension*
 
 * A loyal believer in the Steam Deck.
 
