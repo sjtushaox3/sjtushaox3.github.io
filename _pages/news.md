@@ -13,6 +13,4 @@ author_profile: true
 
 * **(Apr. 28, 2026)** I received the **Shanghai Jiao Tong University Outstanding Graduate Award**.
 
-* **(Mar. 28, 2026)** New paper **"On the Rate Region of i.i.d. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel"** accepted by *IEEE International Symposium on Information Theory (ISIT) 2026*.
-
-ISIT is the flagship conference of the IEEE Information Theory Society.
+* **(Mar. 28, 2026)** New paper **"On the Rate Region of i.i.d. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel"** accepted by *IEEE International Symposium on Information Theory (ISIT) 2026*. ISIT is the flagship conference of the IEEE Information Theory Society.
