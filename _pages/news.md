@@ -1,5 +1,5 @@
 ---
-title: "News Archive"
+title: "News"
 permalink: /news/
 author_profile: true
 ---
