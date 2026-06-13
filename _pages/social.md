@@ -1,5 +1,5 @@
 ---
-title: "Social Activity"
+title: "Social Activity & Award"
 permalink: /social/
 author_profile: true
 ---
