@@ -1,6 +1,6 @@
 ---
-title: "Social Activity & Award"
-permalink: /social/
+title: "Service & Awards"
+permalink: /service/
 author_profile: true
 ---
 
