@@ -27,4 +27,5 @@ author_profile: true
 - GC Qingyang Scholarship (2026)
 - Global Institute of Future Technology Scholars Program (2025-2026)
 - The Development Scholarship - Service (2025)
+- Advanced Teaching Assistant (2024)
 - Undergraduate Excellent Third Prize Scholarship (2022-2025)
