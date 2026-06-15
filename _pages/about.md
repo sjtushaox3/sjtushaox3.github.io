@@ -9,6 +9,8 @@ redirect_from:
 
 ## About Me
 
+<iframe src="/files/picture.pdf" width="260" height="330" style="border:none; margin-bottom:20px;"></iframe>
+
 I am an undergraduate student at Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering with a minor in Data Science and Finance.
 
 I will pursue a Ph.D. in Information and Communication Engineering at SJTU starting from 2026.
