@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-<iframe src="/files/picture.pdf" width="260" height="330" style="border:none; margin-bottom:20px;"></iframe>
+<iframe src="/files/picture.jpg" width="260" height="330" style="border:none; margin-bottom:20px;"></iframe>
 
 I am an undergraduate student at Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering with a minor in Data Science and Finance.
 
