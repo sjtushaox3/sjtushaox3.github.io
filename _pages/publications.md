@@ -93,7 +93,7 @@ author_profile: true
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT)</span>
     <span class="pub-line"><strong>Status:</strong> Accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version)</span>
+    <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version); <a href="/files/ISIT2026Pre.pdf">Oral presentation slides</a></span>
   </div>
 
   <div class="pub-figure">
