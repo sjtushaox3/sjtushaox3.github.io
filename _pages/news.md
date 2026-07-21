@@ -1,5 +1,4 @@
-<img width="2552" height="1274" alt="7643248564f1d4dfd7965dc8a7a30206" src="https://github.com/user-attachments/assets/d9f31a5d-fb6d-40ed-b194-dceae3d18fdd" />---
-
+---
 title: "News"
 permalink: /news/
 author_profile: true
