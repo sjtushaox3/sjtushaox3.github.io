@@ -71,7 +71,8 @@ author_profile: true
   <div class="pub-info">
     <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW)</span>
-    <span class="pub-line"><strong>Status:</strong> Under Review</span>
+    <span class="pub-line"><strong>Status:</strong> Accepted</span>
+    <span class="pub-line"><strong>Date:</strong> 2026-07-21</span>
     <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (original version)</span>
   </div>
 
