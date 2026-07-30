@@ -73,7 +73,7 @@ author_profile: true
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW)</span>
     <span class="pub-line"><strong>Status:</strong> Accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-07-21</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (original version)</span>
+    <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (extended version)</span>
   </div>
 
   <div class="pub-figure">
