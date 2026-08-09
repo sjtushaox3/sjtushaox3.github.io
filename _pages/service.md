@@ -22,6 +22,7 @@ author_profile: true
 - 2024
 
 ### Award
+- ITW 2026 Student Travel Grant (2026)
 - ISIT 2026 Student Travel Grant (2026)
 - Shanghai Jiao Tong University Outstanding Graduate Award (2026)
 - GC Qingyang Scholarship (2026)
