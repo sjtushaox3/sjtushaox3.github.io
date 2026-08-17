@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* **(Aug. 15, 2026)** I graduated from **Shanghai Jiao Tong University** with a **Bachelor's degree**.
+
 * **(Aug. 9, 2026)** I was selected as a recipient of the **ITW 2026 Student Travel Grant**, supported by the *IEEE Information Theory Society* and the *National Natural Science Foundation*.
 
 * **(Jul. 21, 2026)** New paper **"Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC"** accepted by *IEEE Information Theory Workshop (ITW) 2026*.<br>
