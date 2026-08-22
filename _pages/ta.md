@@ -1,5 +1,5 @@
 ---
-title: "TA Experience"
+title: "Teaching Assistant Experience"
 permalink: /ta/
 author_profile: true
 ---
