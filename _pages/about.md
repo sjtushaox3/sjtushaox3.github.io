@@ -11,9 +11,10 @@ redirect_from:
 
 <img src="/files/picture.jpg" alt="Yujie Shao" style="width:280px; height:auto; border-radius:12px; margin-bottom:28px;">
 
-I am an undergraduate student at Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering with a minor in Data Science and Finance.
+I am currently pursuing a Ph.D. in Information and Communication Engineering at Shanghai Jiao Tong University (SJTU). 
 
-I will pursue a Ph.D. in Information and Communication Engineering at SJTU starting from 2026.
+I received my B.Eng. degree from SJTU in 2026, majoring in Electrical and Computer Engineering with minors in Data Science and Finance.
+
 
 My research interests include:
 - Information Theory
