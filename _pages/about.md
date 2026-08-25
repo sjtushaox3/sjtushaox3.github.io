@@ -28,9 +28,9 @@ My research interests include:
 
 **Shanghai Jiao Tong University**  
 - B.Eng. in Electrical and Computer Engineering (Minor in Data Science & Finance)  
-- Sept 2022 – Aug 2026  
+- Aug. 2022 – Aug. 2026  
 
 **Shanghai Jiao Tong University**  
 - Ph.D. in Information and Communication Engineering  
-- Sept 2026 – Present  
+- Sept. 2026 – Present  
 
