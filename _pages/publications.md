@@ -85,7 +85,12 @@ author_profile: true
   </div>
 
   <div class="pub-item">
-    <h3 class="pub-title">On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel</h3>
+    <h3 class="pub-title">
+  <a href="https://doi.org/10.1109/ISIT62367.2026.11653840">
+    On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
+  </a>
+</h3>
+
 
 
 <div class="pub-card" style="--fig-w: 24em;">
