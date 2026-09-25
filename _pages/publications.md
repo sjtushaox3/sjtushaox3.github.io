@@ -101,7 +101,7 @@ author_profile: true
     <span class="pub-line"><strong>Status:</strong> Accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
     <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version); <a href="/files/ISIT2026Pre.pdf">Oral</a> (slides)</span>
-    <span class="pub-line"><strong>Emo:</strong> 我们的交错(Superposition)即使千方百计,依然存在永恒的距离(constant gap)</span>
+    <span class="pub-line"><strong>Emo:</strong> 我们的交错(Superposition)即使千方百计,依然存在永恒的距离(Constant gap)</span>
   </div>
 
   <div class="pub-figure">
