@@ -74,6 +74,7 @@ author_profile: true
     <span class="pub-line"><strong>Status:</strong> Accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-07-21</span>
     <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (extended version)</span>
+    <span class="pub-line"><strong>Emo:</strong> 不管权衡(Tradeoff)的设计再怎么精心，始终不会留下最优(Optimal)的足迹</span>
   </div>
 
   <div class="pub-figure">
@@ -100,6 +101,7 @@ author_profile: true
     <span class="pub-line"><strong>Status:</strong> Accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
     <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version); <a href="/files/ISIT2026Pre.pdf">Oral</a> (slides)</span>
+    <span class="pub-line"><strong>Emo:</strong> 我们的交错(Superposition)即使千方百计,依然存在永恒的距离(constant gap)</span>
   </div>
 
   <div class="pub-figure">
