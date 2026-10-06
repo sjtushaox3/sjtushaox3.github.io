@@ -59,6 +59,14 @@ redirect_from:
       I received my B.Eng. degree from SJTU in 2026, majoring in Electrical and
       Computer Engineering with minors in Data Science and Finance.
     </p>
+
+    <p>
+      My research interests include:
+      - Information Theory
+      - AI for Wireless Communication
+      - Multiple Access
+      - Integrated Sensing and Communication
+    <p>
   </div>
 
   <div class="about-photo">
@@ -67,11 +75,7 @@ redirect_from:
 
 </div>
 
-My research interests include:
-- Information Theory
-- AI for Wireless Communication
-- Multiple Access
-- Integrated Sensing and Communication
+
 
 ---
 
