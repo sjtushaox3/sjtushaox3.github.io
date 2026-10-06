@@ -2,19 +2,70 @@
 permalink: /
 title: "Yujie Shao's Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<style>
+.about-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  margin-bottom: 24px;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.about-photo {
+  width: 280px;
+  flex-shrink: 0;
+}
+
+.about-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+  }
+
+  .about-photo {
+    width: 220px;
+    margin: 0 auto;
+  }
+}
+</style>
+
 ## About Me
 
-<img src="/files/picture.jpg" alt="Yujie Shao" style="width:280px; height:auto; border-radius:12px; margin-bottom:28px;">
+<div class="about-container">
 
-I am currently pursuing a Ph.D. in Information and Communication Engineering at Shanghai Jiao Tong University (SJTU). 
+  <div class="about-text">
+    <p>
+      I am currently pursuing a Ph.D. in Information and Communication Engineering
+      at Shanghai Jiao Tong University (SJTU), supervised by
+      <a href="https://min-fec.github.io/" target="_blank" rel="noopener noreferrer">Min Qiu</a>.
+    </p>
 
-I received my B.Eng. degree from SJTU in 2026, majoring in Electrical and Computer Engineering with minors in Data Science and Finance.
+    <p>
+      I received my B.Eng. degree from SJTU in 2026, majoring in Electrical and
+      Computer Engineering with minors in Data Science and Finance.
+    </p>
+  </div>
 
+  <div class="about-photo">
+    <img src="/files/picture.jpg" alt="Yujie Shao">
+  </div>
+
+</div>
 
 My research interests include:
 - Information Theory
