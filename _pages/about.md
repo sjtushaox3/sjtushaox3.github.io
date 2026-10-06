@@ -62,11 +62,14 @@ redirect_from:
 
     <p>
       My research interests include:
-      - Information Theory
-      - AI for Wireless Communication
-      - Multiple Access
-      - Integrated Sensing and Communication
-    <p>
+    </p>
+
+    <ul>
+      <li>Information Theory</li>
+      <li>AI for Wireless Communication</li>
+      <li>Multiple Access</li>
+      <li>Integrated Sensing and Communication</li>
+    </ul>
   </div>
 
   <div class="about-photo">
@@ -74,10 +77,6 @@ redirect_from:
   </div>
 
 </div>
-
-
-
----
 
 ## Education
 
