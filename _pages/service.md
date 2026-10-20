@@ -4,8 +4,11 @@ permalink: /service/
 author_profile: true
 ---
 
+### Professional Service
+- Reviewer, IEEE Information Theory Workshop (ITW), 2027
+
 ### Advising Center
-- Adivisor
+- Advisor
 - 2025 - present
 
 ### Center for Teaching and Learning
@@ -21,7 +24,7 @@ author_profile: true
 - Research Assistant
 - 2024
 
-### Award
+### Awards & Honors
 - ITW 2026 Student Travel Grant (2026)
 - ISIT 2026 Student Travel Grant (2026)
 - Shanghai Jiao Tong University Outstanding Graduate Award (2026)
