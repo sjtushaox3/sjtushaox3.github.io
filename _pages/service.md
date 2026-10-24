@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Professional Service
-- Reviewer, IEEE Information Theory Workshop (ITW), 2027
+- Reviewer, IEEE Information Theory Workshop (ITW)
 
 ### Advising Center
 - Advisor
