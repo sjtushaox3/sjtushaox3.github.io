@@ -73,7 +73,7 @@ author_profile: true
     <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW)</span>
     <span class="pub-line"><strong>Status:</strong> Accepted</span>
     <span class="pub-line"><strong>Date:</strong> 2026-07-21</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (extended version)</span>
+    <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (extended version); <a href="/files/ITW2026Pre.pdf">Oral</a> (slides)</span>
     <span class="pub-line"><strong>Emo:</strong> 不管权衡(Tradeoff)的设计再怎么精心，始终不会留下最优(Optimal)的足迹</span>
   </div>
 
