@@ -64,6 +64,21 @@ author_profile: true
 <div class="publications-list">
 
   <div class="pub-item">
+    <h3 class="pub-title">
+      RelFACT: Reliable and Fast Aging-Aware Cell-to-Path Timing Analysis with Fine-Grained Transistor Stress Modeling
+    </h3>
+
+    <div class="pub-card no-figure">
+      <div class="pub-info">
+        <span class="pub-line"><strong>Authors:</strong> F. Hu, S. J. Babu, <strong>Y. Shao</strong>, J. Liu, Y. Pan, S. Singhal, and X. Guo</span>
+        <span class="pub-line"><strong>Venue:</strong> ACM Transactions on Design Automation of Electronic Systems (TODAES)</span>
+        <span class="pub-line"><strong>Status:</strong> Accepted</span>
+        <span class="pub-line"><strong>Date:</strong> 2026-11-09</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="pub-item">
     <h3 class="pub-title">Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC</h3>
 
 
