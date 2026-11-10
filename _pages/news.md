@@ -4,6 +4,9 @@ permalink: /news/
 author_profile: true
 ---
 
+* **(Nov. 9, 2026)** New paper **"RelFACT: Reliable and Fast Aging-Aware Cell-to-Path Timing Analysis with Fine-Grained Transistor Stress Modeling"** accepted by *ACM Transactions on Design Automation of Electronic Systems (TODAES)*.<br>
+  Note: *TODAES* is a **CCF B-ranked journal**.
+
 * **(Aug. 15, 2026)** I graduated from **Shanghai Jiao Tong University** with a **Bachelor's degree**.
 
 * **(Aug. 9, 2026)** I was selected as a recipient of the **ITW 2026 Student Travel Grant**, supported by the *IEEE Information Theory Society* and the *National Natural Science Foundation*.
