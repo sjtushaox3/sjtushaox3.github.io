@@ -1,5 +1,4 @@
 ---
-
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -63,7 +62,7 @@ author_profile: true
 
 <div class="publications-list">
 
-    <div class="pub-item">
+  <div class="pub-item">
     <h3 class="pub-title">
       <a href="https://dl.acm.org/doi/10.1145/3863954">
         RelFACT: Reliable and Fast Aging-Aware Cell-to-Path Timing Analysis with Fine-Grained Transistor Stress Modeling
@@ -79,56 +78,49 @@ author_profile: true
       </div>
     </div>
   </div>
-  
+
   <div class="pub-item">
-    <h3 class="pub-title">Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC</h3>
+    <h3 class="pub-title">
+      Design of APSK Constellations Approaching the Communication-Sensing Pareto Boundary for ISAC
+    </h3>
 
+    <div class="pub-card" style="--fig-w: 24em;">
+      <div class="pub-info">
+        <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
+        <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW)</span>
+        <span class="pub-line"><strong>Status:</strong> Accepted</span>
+        <span class="pub-line"><strong>Date:</strong> 2026-07-21</span>
+        <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (extended version); <a href="/files/ITW2026Pre.pdf">Oral</a> (slides)</span>
+        <span class="pub-line"><strong>Emo:</strong> 不管权衡(Tradeoff)的设计再怎么精心，始终不会留下最优(Optimal)的足迹</span>
+      </div>
 
-<div class="pub-card" style="--fig-w: 24em;">
-  <div class="pub-info">
-    <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong>, M. Qiu, M.-C. Lee, Y.-C. Huang, and J. Yuan</span>
-    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE Information Theory Workshop (ITW)</span>
-    <span class="pub-line"><strong>Status:</strong> Accepted</span>
-    <span class="pub-line"><strong>Date:</strong> 2026-07-21</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="https://arxiv.org/abs/2605.25047">arXiv</a> (extended version); <a href="/files/ITW2026Pre.pdf">Oral</a> (slides)</span>
-    <span class="pub-line"><strong>Emo:</strong> 不管权衡(Tradeoff)的设计再怎么精心，始终不会留下最优(Optimal)的足迹</span>
-  </div>
-
-  <div class="pub-figure">
-    <img src="{{ '/files/ITW2026.svg' | relative_url }}" alt="Proposed APSK performance">
-  </div>
-</div>
-
-
+      <div class="pub-figure">
+        <img src="{{ '/files/ITW2026.svg' | relative_url }}" alt="Proposed APSK performance">
+      </div>
+    </div>
   </div>
 
   <div class="pub-item">
     <h3 class="pub-title">
-  <a href="https://doi.org/10.1109/ISIT62367.2026.11653840">
-    On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
-  </a>
-</h3>
+      <a href="https://doi.org/10.1109/ISIT62367.2026.11653840">
+        On the Rate Region of I.I.D. Discrete Signaling and Treating Interference as Noise for the Gaussian Broadcast Channel
+      </a>
+    </h3>
 
+    <div class="pub-card" style="--fig-w: 24em;">
+      <div class="pub-info">
+        <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
+        <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT)</span>
+        <span class="pub-line"><strong>Status:</strong> Accepted</span>
+        <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
+        <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version); <a href="/files/ISIT2026Pre.pdf">Oral</a> (slides)</span>
+        <span class="pub-line"><strong>Emo:</strong> 我们的交错(Superposition)即使千方百计，依然存在永恒的距离(Constant gap)</span>
+      </div>
 
-
-<div class="pub-card" style="--fig-w: 24em;">
-  <div class="pub-info">
-    <span class="pub-line"><strong>Authors:</strong> <strong>Y. Shao</strong> and M. Qiu</span>
-    <span class="pub-line"><strong>Venue:</strong> 2026 IEEE International Symposium on Information Theory (ISIT)</span>
-    <span class="pub-line"><strong>Status:</strong> Accepted</span>
-    <span class="pub-line"><strong>Date:</strong> 2026-03-28</span>
-    <span class="pub-line"><strong>Link:</strong> <a href="http://arxiv.org/abs/2604.04092">arXiv</a> (extended version); <a href="/files/ISIT2026Pre.pdf">Oral</a> (slides)</span>
-    <span class="pub-line"><strong>Emo:</strong> 我们的交错(Superposition)即使千方百计，依然存在永恒的距离(Constant gap)</span>
+      <div class="pub-figure">
+        <img src="{{ '/files/ISIT2026.svg' | relative_url }}" alt="Proposed Rate Region">
+      </div>
+    </div>
   </div>
-
-  <div class="pub-figure">
-    <img src="{{ '/files/ISIT2026.svg' | relative_url }}" alt="Proposed Rate Region">
-  </div>
-</div>
-
-
-  </div>
-
- 
 
 </div>
