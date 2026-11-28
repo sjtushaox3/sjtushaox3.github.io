@@ -63,9 +63,11 @@ author_profile: true
 
 <div class="publications-list">
 
-  <div class="pub-item">
+    <div class="pub-item">
     <h3 class="pub-title">
-      RelFACT: Reliable and Fast Aging-Aware Cell-to-Path Timing Analysis with Fine-Grained Transistor Stress Modeling
+      <a href="https://dl.acm.org/doi/10.1145/3863954">
+        RelFACT: Reliable and Fast Aging-Aware Cell-to-Path Timing Analysis with Fine-Grained Transistor Stress Modeling
+      </a>
     </h3>
 
     <div class="pub-card no-figure">
